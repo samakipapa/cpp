@@ -1,4 +1,4 @@
-# cpp
+# Bleep
 
 Bleep is program that bleeps any word that’s passed in. If the word appears in a sentence, then it gets "bleeped. 
 
